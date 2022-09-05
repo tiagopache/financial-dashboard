@@ -1,0 +1,12 @@
+---
+pt:
+  amount: Valor
+  app_title: Quadro Financeiro
+  category: Categoria
+  month: Mês
+  no_data: Sem dados selecionados
+  select: Selecione...
+  select_all: Selecione todos
+  year: Ano
+  locale: Idioma
+  set_locale: Mudar

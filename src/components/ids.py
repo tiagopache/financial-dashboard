@@ -9,3 +9,6 @@ MONTH_DROPDOWN = 'month-dropdown'
 
 SELECT_ALL_YEARS_BUTTON = 'select-all-years-button'
 YEAR_DROPDOWN = 'year-dropdown'
+
+LOCALE_DROPDOWN = 'locale-dropdown'
+SET_LOCALE_BUTTON = 'set-locale-button'
